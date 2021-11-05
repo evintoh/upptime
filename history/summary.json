@@ -22,19 +22,19 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://favicons.githubusercontent.com/id.bookmyshow.com",
     "slug": "bms-id",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 301,
-    "timeDay": 202,
-    "timeWeek": 288,
-    "timeMonth": 301,
-    "timeYear": 301,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 302,
+    "timeDay": 247,
+    "timeWeek": 293,
+    "timeMonth": 302,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2021-11-05": 0
+      "2021-11-05": 10
     }
   },
   {
