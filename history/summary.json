@@ -11,15 +11,14 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 482,
-    "timeDay": 673,
-    "timeWeek": 619,
-    "timeMonth": 607,
-    "timeYear": 501,
+    "timeDay": 591,
+    "timeWeek": 604,
+    "timeMonth": 608,
+    "timeYear": 502,
     "dailyMinutesDown": {
       "2022-09-29": 56,
       "2022-06-21": 40,
-      "2022-05-06": 18,
-      "2021-11-16": 22
+      "2022-05-06": 18
     }
   },
   {
@@ -33,11 +32,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
-    "time": 405,
-    "timeDay": 567,
-    "timeWeek": 629,
-    "timeMonth": 575,
-    "timeYear": 416,
+    "time": 406,
+    "timeDay": 687,
+    "timeWeek": 627,
+    "timeMonth": 577,
+    "timeYear": 417,
     "dailyMinutesDown": {
       "2022-09-29": 56,
       "2022-07-03": 25,
@@ -46,8 +45,7 @@
       "2022-06-21": 40,
       "2022-06-16": 48,
       "2022-02-21": 25,
-      "2021-11-22": 25,
-      "2021-11-16": 22
+      "2021-11-22": 25
     }
   },
   {
@@ -61,15 +59,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 416,
-    "timeDay": 714,
-    "timeWeek": 557,
-    "timeMonth": 566,
-    "timeYear": 429,
+    "time": 418,
+    "timeDay": 1091,
+    "timeWeek": 642,
+    "timeMonth": 578,
+    "timeYear": 432,
     "dailyMinutesDown": {
       "2022-09-29": 56,
-      "2022-06-21": 40,
-      "2021-11-16": 22
+      "2022-06-21": 40
     }
   },
   {
@@ -78,18 +75,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "13.11%",
+    "uptime": "13.07%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "3.67%",
+    "uptimeYear": "3.40%",
     "time": 320,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 323,
     "dailyMinutesDown": {
-      "2022-11-15": 78,
+      "2022-11-16": 78,
+      "2022-11-15": 1440,
       "2022-11-14": 1440,
       "2022-11-13": 1440,
       "2022-11-12": 1440,
@@ -441,8 +439,7 @@
       "2021-12-01": 1440,
       "2021-11-30": 1440,
       "2021-11-29": 1440,
-      "2021-11-28": 1228,
-      "2021-11-16": 22
+      "2021-11-28": 1228
     }
   },
   {
@@ -457,9 +454,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
     "time": 325,
-    "timeDay": 365,
-    "timeWeek": 367,
-    "timeMonth": 374,
+    "timeDay": 285,
+    "timeWeek": 349,
+    "timeMonth": 371,
     "timeYear": 327,
     "dailyMinutesDown": {
       "2022-09-09": 79,
@@ -467,8 +464,7 @@
       "2022-06-30": 128,
       "2022-06-21": 40,
       "2022-04-07": 430,
-      "2022-02-21": 25,
-      "2021-11-16": 22
+      "2022-02-21": 25
     }
   }
 ]
