@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 946,
-    "timeDay": 1215,
-    "timeWeek": 816,
+    "time": 947,
+    "timeDay": 1087,
+    "timeWeek": 817,
     "timeMonth": 930,
-    "timeYear": 1041,
+    "timeYear": 1042,
     "dailyMinutesDown": {
       "2023-06-07": 17
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 912,
-    "timeDay": 1128,
-    "timeWeek": 946,
-    "timeMonth": 958,
+    "time": 913,
+    "timeDay": 502,
+    "timeWeek": 866,
+    "timeMonth": 937,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2023-06-07": 17
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 915,
-    "timeDay": 1160,
-    "timeWeek": 821,
-    "timeMonth": 944,
+    "timeDay": 414,
+    "timeWeek": 812,
+    "timeMonth": 922,
     "timeYear": 1030,
     "dailyMinutesDown": {
       "2023-06-07": 17
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "7.31%",
+    "uptime": "7.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2023-10-02": 54,
+      "2023-10-03": 54,
+      "2023-10-02": 1440,
       "2023-10-01": 1440,
       "2023-09-30": 1440,
       "2023-09-29": 1440,
@@ -439,8 +440,7 @@
       "2022-10-07": 1440,
       "2022-10-06": 1440,
       "2022-10-05": 1440,
-      "2022-10-04": 1440,
-      "2022-10-03": 1440
+      "2022-10-04": 1440
     }
   },
   {
@@ -454,11 +454,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 648,
-    "timeDay": 1044,
-    "timeWeek": 900,
-    "timeMonth": 872,
-    "timeYear": 755,
+    "time": 649,
+    "timeDay": 1016,
+    "timeWeek": 903,
+    "timeMonth": 867,
+    "timeYear": 757,
     "dailyMinutesDown": {
       "2023-02-11": 466,
       "2023-02-10": 1440,
