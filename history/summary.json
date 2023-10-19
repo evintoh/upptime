@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 964,
-    "timeDay": 1156,
-    "timeWeek": 1056,
-    "timeMonth": 957,
-    "timeYear": 1057,
+    "time": 965,
+    "timeDay": 963,
+    "timeWeek": 1063,
+    "timeMonth": 950,
+    "timeYear": 1058,
     "dailyMinutesDown": {
       "2023-06-07": 17
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 928,
-    "timeDay": 1053,
-    "timeWeek": 886,
-    "timeMonth": 852,
-    "timeYear": 1072,
+    "time": 929,
+    "timeDay": 845,
+    "timeWeek": 951,
+    "timeMonth": 838,
+    "timeYear": 1073,
     "dailyMinutesDown": {
       "2023-06-07": 17
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 931,
-    "timeDay": 403,
-    "timeWeek": 849,
-    "timeMonth": 859,
+    "timeDay": 347,
+    "timeWeek": 775,
+    "timeMonth": 838,
     "timeYear": 1046,
     "dailyMinutesDown": {
       "2023-06-07": 17
@@ -65,7 +65,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "7.15%",
+    "uptime": "7.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -76,7 +76,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2023-10-18": 54,
+      "2023-10-19": 54,
+      "2023-10-18": 1440,
       "2023-10-17": 1440,
       "2023-10-16": 1440,
       "2023-10-15": 1440,
@@ -439,8 +440,7 @@
       "2022-10-23": 1440,
       "2022-10-22": 1440,
       "2022-10-21": 1440,
-      "2022-10-20": 1440,
-      "2022-10-19": 1440
+      "2022-10-20": 1440
     }
   },
   {
@@ -455,9 +455,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
     "time": 668,
-    "timeDay": 918,
-    "timeWeek": 901,
-    "timeMonth": 875,
+    "timeDay": 302,
+    "timeWeek": 836,
+    "timeMonth": 852,
     "timeYear": 778,
     "dailyMinutesDown": {
       "2023-02-11": 466,
