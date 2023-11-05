@@ -10,11 +10,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 954,
-    "timeDay": 1111,
-    "timeWeek": 925,
-    "timeMonth": 985,
-    "timeYear": 1074,
+    "time": 955,
+    "timeDay": 994,
+    "timeWeek": 946,
+    "timeMonth": 980,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -32,10 +32,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 948,
-    "timeDay": 438,
-    "timeWeek": 761,
-    "timeMonth": 839,
-    "timeYear": 1085,
+    "timeDay": 362,
+    "timeWeek": 706,
+    "timeMonth": 817,
+    "timeYear": 1084,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -52,11 +52,11 @@
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 913,
-    "timeDay": 1072,
-    "timeWeek": 762,
-    "timeMonth": 889,
-    "timeYear": 1058,
+    "time": 914,
+    "timeDay": 954,
+    "timeWeek": 834,
+    "timeMonth": 885,
+    "timeYear": 1059,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "6.99%",
+    "uptime": "6.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2023-11-04": 53,
+      "2023-11-05": 58,
+      "2023-11-04": 1440,
       "2023-11-03": 1440,
       "2023-11-02": 1440,
       "2023-11-01": 1440,
@@ -442,8 +443,7 @@
       "2022-11-09": 1440,
       "2022-11-08": 1440,
       "2022-11-07": 1440,
-      "2022-11-06": 1440,
-      "2022-11-05": 1440
+      "2022-11-06": 1440
     }
   },
   {
@@ -457,11 +457,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 687,
-    "timeDay": 944,
-    "timeWeek": 905,
-    "timeMonth": 834,
-    "timeYear": 798,
+    "time": 688,
+    "timeDay": 894,
+    "timeWeek": 923,
+    "timeMonth": 828,
+    "timeYear": 799,
     "dailyMinutesDown": {
       "2023-02-11": 466,
       "2023-02-10": 1440,
