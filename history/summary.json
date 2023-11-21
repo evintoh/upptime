@@ -11,10 +11,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 964,
-    "timeDay": 540,
-    "timeWeek": 902,
-    "timeMonth": 956,
-    "timeYear": 1085,
+    "timeDay": 474,
+    "timeWeek": 904,
+    "timeMonth": 957,
+    "timeYear": 1083,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -31,9 +31,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 963,
-    "timeDay": 1067,
-    "timeWeek": 866,
+    "time": 964,
+    "timeDay": 922,
+    "timeWeek": 939,
     "timeMonth": 887,
     "timeYear": 1092,
     "dailyMinutesDown": {
@@ -53,10 +53,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
     "time": 927,
-    "timeDay": 1054,
-    "timeWeek": 1010,
-    "timeMonth": 898,
-    "timeYear": 1067,
+    "timeDay": 426,
+    "timeWeek": 933,
+    "timeMonth": 886,
+    "timeYear": 1065,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "6.85%",
+    "uptime": "6.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2023-11-20": 57,
+      "2023-11-21": 57,
+      "2023-11-20": 1440,
       "2023-11-19": 1440,
       "2023-11-18": 1440,
       "2023-11-17": 1440,
@@ -442,8 +443,7 @@
       "2022-11-25": 1440,
       "2022-11-24": 1440,
       "2022-11-23": 1440,
-      "2022-11-22": 1440,
-      "2022-11-21": 1440
+      "2022-11-22": 1440
     }
   },
   {
@@ -457,10 +457,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 697,
-    "timeDay": 361,
-    "timeWeek": 764,
-    "timeMonth": 817,
+    "time": 698,
+    "timeDay": 806,
+    "timeWeek": 748,
+    "timeMonth": 834,
     "timeYear": 811,
     "dailyMinutesDown": {
       "2023-02-11": 466,
