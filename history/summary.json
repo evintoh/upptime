@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 980,
-    "timeDay": 977,
-    "timeWeek": 889,
-    "timeMonth": 906,
-    "timeYear": 1071,
+    "timeDay": 499,
+    "timeWeek": 795,
+    "timeMonth": 882,
+    "timeYear": 1068,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 978,
-    "timeDay": 849,
-    "timeWeek": 935,
-    "timeMonth": 884,
-    "timeYear": 1050,
+    "timeDay": 915,
+    "timeWeek": 887,
+    "timeMonth": 881,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 947,
-    "timeDay": 975,
-    "timeWeek": 831,
-    "timeMonth": 886,
-    "timeYear": 1040,
+    "time": 948,
+    "timeDay": 883,
+    "timeWeek": 805,
+    "timeMonth": 876,
+    "timeYear": 1039,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2023-12-15": 1302,
+      "2023-12-16": 56,
+      "2023-12-15": 1440,
       "2023-12-14": 1440,
       "2023-12-13": 1440,
       "2023-12-12": 1440,
@@ -442,8 +443,7 @@
       "2022-12-20": 1440,
       "2022-12-19": 1440,
       "2022-12-18": 1440,
-      "2022-12-17": 1440,
-      "2022-12-16": 1440
+      "2022-12-17": 1440
     }
   },
   {
@@ -453,17 +453,16 @@
     "slug": "bms-sg-admin",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 719,
-    "timeDay": 545,
-    "timeWeek": 704,
-    "timeMonth": 744,
-    "timeYear": 807,
+    "time": 720,
+    "timeDay": 701,
+    "timeWeek": 661,
+    "timeMonth": 737,
+    "timeYear": 809,
     "dailyMinutesDown": {
-      "2023-12-15": 6,
       "2023-02-11": 466,
       "2023-02-10": 1440,
       "2023-02-09": 1069
