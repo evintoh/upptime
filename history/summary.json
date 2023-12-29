@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 988,
-    "timeDay": 415,
-    "timeWeek": 861,
+    "time": 989,
+    "timeDay": 1134,
+    "timeWeek": 863,
     "timeMonth": 899,
-    "timeYear": 1056,
+    "timeYear": 1055,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 985,
-    "timeDay": 1106,
-    "timeWeek": 918,
-    "timeMonth": 884,
-    "timeYear": 1039,
+    "time": 986,
+    "timeDay": 1101,
+    "timeWeek": 1012,
+    "timeMonth": 881,
+    "timeYear": 1038,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 961,
-    "timeDay": 1015,
-    "timeWeek": 886,
-    "timeMonth": 926,
+    "time": 962,
+    "timeDay": 1118,
+    "timeWeek": 880,
+    "timeMonth": 948,
     "timeYear": 1030,
     "dailyMinutesDown": {
       "2023-10-30": 24,
@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "6.53%",
+    "uptime": "6.52%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2023-12-28": 54,
+      "2023-12-29": 45,
+      "2023-12-28": 1440,
       "2023-12-27": 1440,
       "2023-12-26": 1440,
       "2023-12-25": 1440,
@@ -442,8 +443,7 @@
       "2023-01-02": 1440,
       "2023-01-01": 1440,
       "2022-12-31": 1440,
-      "2022-12-30": 1440,
-      "2022-12-29": 1440
+      "2022-12-30": 1440
     }
   },
   {
@@ -457,9 +457,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.43%",
-    "time": 727,
-    "timeDay": 1018,
-    "timeWeek": 879,
+    "time": 729,
+    "timeDay": 1080,
+    "timeWeek": 864,
     "timeMonth": 730,
     "timeYear": 806,
     "dailyMinutesDown": {
