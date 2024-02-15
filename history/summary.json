@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1011,
-    "timeDay": 1061,
-    "timeWeek": 1015,
-    "timeMonth": 894,
-    "timeYear": 1013,
+    "timeDay": 426,
+    "timeWeek": 924,
+    "timeMonth": 893,
+    "timeYear": 1011,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -31,11 +31,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1014,
-    "timeDay": 398,
-    "timeWeek": 716,
-    "timeMonth": 801,
-    "timeYear": 1000,
+    "time": 1015,
+    "timeDay": 1056,
+    "timeWeek": 816,
+    "timeMonth": 804,
+    "timeYear": 1001,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -52,10 +52,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 988,
-    "timeDay": 415,
-    "timeWeek": 615,
-    "timeMonth": 760,
+    "time": 990,
+    "timeDay": 1148,
+    "timeWeek": 732,
+    "timeMonth": 770,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2023-10-30": 24,
@@ -68,7 +68,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "6.17%",
+    "uptime": "6.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -79,7 +79,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2024-02-14": 54,
+      "2024-02-15": 54,
+      "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 1440,
@@ -442,8 +443,7 @@
       "2023-02-19": 1440,
       "2023-02-18": 1440,
       "2023-02-17": 1440,
-      "2023-02-16": 1440,
-      "2023-02-15": 1440
+      "2023-02-16": 1440
     }
   },
   {
@@ -458,10 +458,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 769,
-    "timeDay": 974,
-    "timeWeek": 834,
+    "timeDay": 441,
+    "timeWeek": 833,
     "timeMonth": 748,
-    "timeYear": 815,
+    "timeYear": 814,
     "dailyMinutesDown": {}
   }
 ]
