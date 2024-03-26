@@ -79,7 +79,7 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2024-03-26": 54,
+      "2024-03-26": 257,
       "2024-03-25": 1440,
       "2024-03-24": 1440,
       "2024-03-23": 1440,
@@ -451,17 +451,19 @@
     "url": "http://admin-sg.bigtix.io/",
     "icon": "https://icons.duckduckgo.com/ip3/admin-sg.bigtix.io.ico",
     "slug": "bms-sg-admin",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 789,
-    "timeDay": 360,
-    "timeWeek": 803,
-    "timeMonth": 641,
-    "timeYear": 799,
-    "dailyMinutesDown": {}
+    "time": 787,
+    "timeDay": 218,
+    "timeWeek": 712,
+    "timeMonth": 622,
+    "timeYear": 797,
+    "dailyMinutesDown": {
+      "2024-03-26": 0
+    }
   }
 ]
