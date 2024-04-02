@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1018,
-    "timeDay": 973,
-    "timeWeek": 689,
-    "timeMonth": 718,
-    "timeYear": 951,
+    "time": 1016,
+    "timeDay": 484,
+    "timeWeek": 690,
+    "timeMonth": 721,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -32,10 +32,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1016,
-    "timeDay": 845,
-    "timeWeek": 658,
-    "timeMonth": 718,
-    "timeYear": 954,
+    "timeDay": 1041,
+    "timeWeek": 721,
+    "timeMonth": 737,
+    "timeYear": 953,
     "dailyMinutesDown": {
       "2023-10-30": 24,
       "2023-06-07": 17
@@ -53,9 +53,9 @@
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.94%",
     "time": 980,
-    "timeDay": 349,
-    "timeWeek": 429,
-    "timeMonth": 634,
+    "timeDay": 1065,
+    "timeWeek": 431,
+    "timeMonth": 639,
     "timeYear": 917,
     "dailyMinutesDown": {
       "2024-03-26": 296,
@@ -69,7 +69,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "5.85%",
+    "uptime": "5.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -80,7 +80,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2024-04-01": 60,
+      "2024-04-02": 57,
+      "2024-04-01": 1440,
       "2024-03-31": 1440,
       "2024-03-30": 1440,
       "2024-03-29": 1440,
@@ -443,8 +444,7 @@
       "2023-04-07": 1440,
       "2023-04-06": 1440,
       "2023-04-05": 1440,
-      "2023-04-04": 1440,
-      "2023-04-03": 1440
+      "2023-04-04": 1440
     }
   },
   {
@@ -459,9 +459,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.99%",
     "time": 787,
-    "timeDay": 765,
-    "timeWeek": 642,
-    "timeMonth": 639,
+    "timeDay": 572,
+    "timeWeek": 665,
+    "timeMonth": 649,
     "timeYear": 797,
     "dailyMinutesDown": {
       "2024-03-26": 66
