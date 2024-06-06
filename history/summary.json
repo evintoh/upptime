@@ -6,23 +6,22 @@
     "slug": "bms-sg",
     "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "70.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.79%",
     "uptimeMonth": "91.28%",
     "uptimeYear": "99.26%",
-    "time": 952,
-    "timeDay": 683,
-    "timeWeek": 743,
-    "timeMonth": 768,
-    "timeYear": 868,
+    "time": 953,
+    "timeDay": 1214,
+    "timeWeek": 760,
+    "timeMonth": 792,
+    "timeYear": 870,
     "dailyMinutesDown": {
       "2024-06-04": 424,
       "2024-05-24": 1387,
       "2024-05-23": 1440,
       "2024-05-22": 569,
       "2024-04-26": 28,
-      "2023-10-30": 24,
-      "2023-06-07": 17
+      "2023-10-30": 24
     }
   },
   {
@@ -32,20 +31,19 @@
     "slug": "bms-id",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "70.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.79%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.90%",
-    "time": 941,
-    "timeDay": 350,
-    "timeWeek": 455,
-    "timeMonth": 703,
-    "timeYear": 843,
+    "time": 942,
+    "timeDay": 1151,
+    "timeWeek": 465,
+    "timeMonth": 706,
+    "timeYear": 844,
     "dailyMinutesDown": {
       "2024-06-04": 424,
       "2024-04-26": 39,
-      "2023-10-30": 24,
-      "2023-06-07": 17
+      "2023-10-30": 24
     }
   },
   {
@@ -55,21 +53,20 @@
     "slug": "bms-my",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "70.54%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "95.79%",
     "uptimeMonth": "99.03%",
     "uptimeYear": "99.85%",
-    "time": 909,
-    "timeDay": 754,
-    "timeWeek": 645,
-    "timeMonth": 695,
-    "timeYear": 816,
+    "time": 908,
+    "timeDay": 574,
+    "timeWeek": 656,
+    "timeMonth": 679,
+    "timeYear": 815,
     "dailyMinutesDown": {
       "2024-06-04": 424,
       "2024-04-26": 40,
       "2024-03-26": 296,
-      "2023-10-30": 24,
-      "2023-06-07": 17
+      "2023-10-30": 24
     }
   },
   {
@@ -78,7 +75,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "5.46%",
+    "uptime": "5.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -89,7 +86,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2024-06-05": 59,
+      "2024-06-06": 59,
+      "2024-06-05": 1440,
       "2024-06-04": 1440,
       "2024-06-03": 1440,
       "2024-06-02": 1440,
@@ -452,8 +450,7 @@
       "2023-06-11": 1440,
       "2023-06-10": 1440,
       "2023-06-09": 1440,
-      "2023-06-08": 1440,
-      "2023-06-07": 1440
+      "2023-06-08": 1440
     }
   },
   {
@@ -467,11 +464,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 775,
-    "timeDay": 973,
-    "timeWeek": 664,
-    "timeMonth": 703,
-    "timeYear": 771,
+    "time": 774,
+    "timeDay": 406,
+    "timeWeek": 591,
+    "timeMonth": 705,
+    "timeYear": 769,
     "dailyMinutesDown": {
       "2024-03-26": 66
     }
