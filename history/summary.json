@@ -6,15 +6,15 @@
     "slug": "bms-sg",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "98.77%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.82%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.17%",
-    "time": 918,
-    "timeDay": 517,
-    "timeWeek": 833,
-    "timeMonth": 794,
-    "timeYear": 854,
+    "time": 917,
+    "timeDay": 435,
+    "timeWeek": 773,
+    "timeMonth": 775,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2024-07-08": 18,
       "2024-06-07": 488,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 918,
-    "timeDay": 375,
-    "timeWeek": 713,
-    "timeMonth": 826,
+    "timeDay": 363,
+    "timeWeek": 709,
+    "timeMonth": 804,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2024-06-07": 488,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 878,
-    "timeDay": 391,
-    "timeWeek": 763,
-    "timeMonth": 691,
-    "timeYear": 798,
+    "time": 876,
+    "timeDay": 411,
+    "timeWeek": 770,
+    "timeMonth": 675,
+    "timeYear": 797,
     "dailyMinutesDown": {
       "2024-06-07": 488,
       "2024-06-04": 424,
@@ -90,7 +90,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2024-07-09": 62,
+      "2024-07-10": 62,
+      "2024-07-09": 1440,
       "2024-07-08": 1440,
       "2024-07-07": 1440,
       "2024-07-06": 1440,
@@ -453,8 +454,7 @@
       "2023-07-15": 1440,
       "2023-07-14": 1440,
       "2023-07-13": 1440,
-      "2023-07-12": 1440,
-      "2023-07-11": 1440
+      "2023-07-12": 1440
     }
   },
   {
@@ -468,11 +468,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 774,
-    "timeDay": 451,
-    "timeWeek": 708,
-    "timeMonth": 630,
-    "timeYear": 750,
+    "time": 773,
+    "timeDay": 294,
+    "timeWeek": 633,
+    "timeMonth": 629,
+    "timeYear": 749,
     "dailyMinutesDown": {
       "2024-03-26": 66
     }
