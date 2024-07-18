@@ -11,10 +11,10 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.17%",
     "time": 912,
-    "timeDay": 1129,
-    "timeWeek": 977,
+    "timeDay": 1118,
+    "timeWeek": 994,
     "timeMonth": 813,
-    "timeYear": 852,
+    "timeYear": 853,
     "dailyMinutesDown": {
       "2024-07-08": 18,
       "2024-06-07": 488,
@@ -38,9 +38,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.81%",
     "time": 915,
-    "timeDay": 1286,
-    "timeWeek": 934,
-    "timeMonth": 804,
+    "timeDay": 1073,
+    "timeWeek": 1027,
+    "timeMonth": 806,
     "timeYear": 831,
     "dailyMinutesDown": {
       "2024-06-07": 488,
@@ -60,11 +60,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
-    "time": 866,
-    "timeDay": 517,
-    "timeWeek": 612,
-    "timeMonth": 631,
-    "timeYear": 792,
+    "time": 867,
+    "timeDay": 1133,
+    "timeWeek": 634,
+    "timeMonth": 632,
+    "timeYear": 793,
     "dailyMinutesDown": {
       "2024-06-07": 488,
       "2024-06-04": 424,
@@ -79,7 +79,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "5.23%",
+    "uptime": "5.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -90,7 +90,8 @@
     "timeMonth": 0,
     "timeYear": 1203,
     "dailyMinutesDown": {
-      "2024-07-17": 63,
+      "2024-07-18": 61,
+      "2024-07-17": 1440,
       "2024-07-16": 1440,
       "2024-07-15": 1440,
       "2024-07-14": 1440,
@@ -453,8 +454,7 @@
       "2023-07-23": 1440,
       "2023-07-22": 1440,
       "2023-07-21": 1440,
-      "2023-07-20": 1440,
-      "2023-07-19": 1440
+      "2023-07-20": 1440
     }
   },
   {
@@ -469,9 +469,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 771,
-    "timeDay": 552,
-    "timeWeek": 693,
-    "timeMonth": 655,
+    "timeDay": 1144,
+    "timeWeek": 732,
+    "timeMonth": 681,
     "timeYear": 744,
     "dailyMinutesDown": {
       "2024-03-26": 66
