@@ -16,7 +16,7 @@
     "timeMonth": 181,
     "timeYear": 176,
     "dailyMinutesDown": {
-      "2025-11-12": 1004,
+      "2025-11-12": 1016,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -400,7 +400,7 @@
     "timeMonth": 178,
     "timeYear": 166,
     "dailyMinutesDown": {
-      "2025-11-12": 1004,
+      "2025-11-12": 1016,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -784,7 +784,7 @@
     "timeMonth": 181,
     "timeYear": 158,
     "dailyMinutesDown": {
-      "2025-11-12": 1004,
+      "2025-11-12": 1016,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1168,7 +1168,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-11-12": 1004,
+      "2025-11-12": 1016,
       "2025-11-11": 1440,
       "2025-11-10": 1440,
       "2025-11-09": 1440,
@@ -1540,19 +1540,19 @@
     "url": "http://admin-sg.bigtix.io/",
     "icon": "https://icons.duckduckgo.com/ip3/admin-sg.bigtix.io.ico",
     "slug": "bms-sg-admin",
-    "status": "down",
+    "status": "up",
     "uptime": "99.82%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 688,
-    "timeDay": 386,
-    "timeWeek": 665,
-    "timeMonth": 635,
-    "timeYear": 674,
+    "timeDay": 738,
+    "timeWeek": 718,
+    "timeMonth": 649,
+    "timeYear": 675,
     "dailyMinutesDown": {
-      "2025-11-12": 0
+      "2025-11-12": 12
     }
   }
 ]
