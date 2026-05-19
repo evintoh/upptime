@@ -1,7 +1,7 @@
 url: https://id.bookmyshow.com/
-status: up
-code: 200
-responseTime: 1410
-lastUpdated: 2026-05-19T17:12:10.620Z
+status: down
+code: 403
+responseTime: 30
+lastUpdated: 2026-05-19T22:00:18.116Z
 startTime: 2021-10-06T10:08:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
