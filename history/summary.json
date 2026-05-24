@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.15%",
+    "uptimeYear": "49.16%",
     "time": 589,
     "timeDay": 786,
     "timeWeek": 1185,
@@ -209,16 +209,16 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "up",
+    "status": "down",
     "uptime": "67.29%",
-    "uptimeDay": "16.20%",
-    "uptimeWeek": "40.18%",
-    "uptimeMonth": "18.19%",
-    "uptimeYear": "1.40%",
+    "uptimeDay": "19.42%",
+    "uptimeWeek": "40.73%",
+    "uptimeMonth": "18.32%",
+    "uptimeYear": "1.41%",
     "time": 249,
-    "timeDay": 809,
-    "timeWeek": 714,
-    "timeMonth": 668,
+    "timeDay": 593,
+    "timeWeek": 698,
+    "timeMonth": 662,
     "timeYear": 285,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
@@ -585,7 +585,7 @@
       "2026-05-21": 781,
       "2026-05-22": 928,
       "2026-05-23": 1095,
-      "2026-05-24": 715
+      "2026-05-24": 716
     }
   },
   {
@@ -593,17 +593,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
+    "status": "up",
     "uptime": "62.87%",
-    "uptimeDay": "5.86%",
+    "uptimeDay": "5.90%",
     "uptimeWeek": "36.94%",
     "uptimeMonth": "17.69%",
     "uptimeYear": "1.36%",
-    "time": 233,
-    "timeDay": 368,
-    "timeWeek": 803,
-    "timeMonth": 602,
-    "timeYear": 265,
+    "time": 236,
+    "timeDay": 776,
+    "timeWeek": 834,
+    "timeMonth": 616,
+    "timeYear": 269,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -969,7 +969,7 @@
       "2026-05-21": 769,
       "2026-05-22": 988,
       "2026-05-23": 1095,
-      "2026-05-24": 715
+      "2026-05-24": 771
     }
   },
   {
@@ -989,7 +989,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-24": 715,
+      "2026-05-24": 772,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
       "2026-05-21": 1440,
