@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "49.52%",
+    "uptimeYear": "49.56%",
     "time": 592,
     "timeDay": 1685,
     "timeWeek": 1268,
-    "timeMonth": 1162,
-    "timeYear": 752,
+    "timeMonth": 1096,
+    "timeYear": 753,
     "dailyMinutesDown": {
       "2025-11-26": 148,
       "2025-11-25": 1440,
@@ -208,17 +208,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "down",
-    "uptime": "67.27%",
-    "uptimeDay": "35.50%",
-    "uptimeWeek": "33.30%",
+    "status": "up",
+    "uptime": "67.26%",
+    "uptimeDay": "35.55%",
+    "uptimeWeek": "32.63%",
     "uptimeMonth": "19.62%",
     "uptimeYear": "1.52%",
-    "time": 257,
-    "timeDay": 826,
-    "timeWeek": 684,
-    "timeMonth": 681,
-    "timeYear": 294,
+    "time": 258,
+    "timeDay": 770,
+    "timeWeek": 680,
+    "timeMonth": 685,
+    "timeYear": 295,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -584,7 +584,7 @@
       "2026-05-22": 928,
       "2026-05-23": 1095,
       "2026-05-24": 1326,
-      "2026-05-25": 730
+      "2026-05-25": 914
     }
   },
   {
@@ -595,13 +595,13 @@
     "status": "down",
     "uptime": "62.83%",
     "uptimeDay": "10.03%",
-    "uptimeWeek": "28.94%",
+    "uptimeWeek": "27.73%",
     "uptimeMonth": "18.35%",
     "uptimeYear": "1.41%",
     "time": 239,
     "timeDay": 528,
-    "timeWeek": 727,
-    "timeMonth": 615,
+    "timeWeek": 719,
+    "timeMonth": 620,
     "timeYear": 273,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
@@ -968,7 +968,7 @@
       "2026-05-22": 988,
       "2026-05-23": 1095,
       "2026-05-24": 1297,
-      "2026-05-25": 1096
+      "2026-05-25": 1281
     }
   },
   {
@@ -977,7 +977,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/pos-sg.bigtix.io.ico",
     "slug": "bms-sg-pos",
     "status": "down",
-    "uptime": "3.14%",
+    "uptime": "3.13%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -988,7 +988,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-25": 1240,
+      "2026-05-25": 1425,
       "2026-05-24": 1440,
       "2026-05-23": 1440,
       "2026-05-22": 1440,
@@ -1369,8 +1369,8 @@
     "time": 655,
     "timeDay": 341,
     "timeWeek": 735,
-    "timeMonth": 750,
-    "timeYear": 654,
+    "timeMonth": 737,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2025-11-18": 68
     }
