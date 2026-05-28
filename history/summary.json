@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.13%",
+    "uptimeYear": "50.14%",
     "time": 597,
     "timeDay": 912,
     "timeWeek": 1304,
@@ -207,13 +207,13 @@
     "slug": "bms-id",
     "status": "up",
     "uptime": "67.25%",
-    "uptimeDay": "51.84%",
-    "uptimeWeek": "37.16%",
-    "uptimeMonth": "23.48%",
-    "uptimeYear": "1.84%",
+    "uptimeDay": "58.12%",
+    "uptimeWeek": "37.99%",
+    "uptimeMonth": "23.68%",
+    "uptimeYear": "1.86%",
     "time": 269,
     "timeDay": 1078,
-    "timeWeek": 693,
+    "timeWeek": 711,
     "timeMonth": 711,
     "timeYear": 308,
     "dailyMinutesDown": {
@@ -590,13 +590,13 @@
     "slug": "bms-my",
     "status": "down",
     "uptime": "62.83%",
-    "uptimeDay": "62.99%",
-    "uptimeWeek": "35.69%",
+    "uptimeDay": "61.29%",
+    "uptimeWeek": "35.62%",
     "uptimeMonth": "22.75%",
     "uptimeYear": "1.78%",
     "time": 253,
-    "timeDay": 963,
-    "timeWeek": 694,
+    "timeDay": 1145,
+    "timeWeek": 705,
     "timeMonth": 654,
     "timeYear": 289,
     "dailyMinutesDown": {
@@ -964,7 +964,7 @@
       "2026-05-25": 1292,
       "2026-05-26": 509,
       "2026-05-27": 533,
-      "2026-05-28": 0
+      "2026-05-28": 91
     }
   },
   {
@@ -984,7 +984,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-28": 86,
+      "2026-05-28": 177,
       "2026-05-27": 1440,
       "2026-05-26": 1440,
       "2026-05-25": 1440,
