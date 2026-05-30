@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.69%",
+    "uptimeYear": "50.72%",
     "time": 599,
     "timeDay": 409,
     "timeWeek": 1006,
@@ -203,17 +203,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "down",
+    "status": "up",
     "uptime": "67.25%",
-    "uptimeDay": "55.88%",
-    "uptimeWeek": "46.95%",
+    "uptimeDay": "55.92%",
+    "uptimeWeek": "46.96%",
     "uptimeMonth": "28.21%",
     "uptimeYear": "2.24%",
-    "time": 282,
-    "timeDay": 720,
-    "timeWeek": 833,
-    "timeMonth": 738,
-    "timeYear": 322,
+    "time": 286,
+    "timeDay": 877,
+    "timeWeek": 863,
+    "timeMonth": 748,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -579,7 +579,7 @@
       "2026-05-27": 779,
       "2026-05-28": 88,
       "2026-05-29": 633,
-      "2026-05-30": 173
+      "2026-05-30": 328
     }
   },
   {
@@ -587,17 +587,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
-    "uptime": "62.82%",
-    "uptimeDay": "62.63%",
-    "uptimeWeek": "41.62%",
+    "status": "up",
+    "uptime": "62.81%",
+    "uptimeDay": "62.67%",
+    "uptimeWeek": "41.30%",
     "uptimeMonth": "26.48%",
     "uptimeYear": "2.09%",
-    "time": 318,
-    "timeDay": 740,
-    "timeWeek": 1734,
-    "timeMonth": 945,
-    "timeYear": 372,
+    "time": 320,
+    "timeDay": 908,
+    "timeWeek": 1755,
+    "timeMonth": 952,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -963,7 +963,7 @@
       "2026-05-27": 533,
       "2026-05-28": 621,
       "2026-05-29": 538,
-      "2026-05-30": 173
+      "2026-05-30": 328
     }
   },
   {
@@ -983,7 +983,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-30": 173,
+      "2026-05-30": 329,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
       "2026-05-27": 1440,
