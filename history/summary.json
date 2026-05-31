@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.05%",
+    "uptimeYear": "51.09%",
     "time": 601,
     "timeDay": 967,
     "timeWeek": 1032,
@@ -202,17 +202,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "down",
+    "status": "up",
     "uptime": "67.24%",
-    "uptimeDay": "54.18%",
-    "uptimeWeek": "54.32%",
+    "uptimeDay": "40.73%",
+    "uptimeWeek": "53.76%",
     "uptimeMonth": "27.40%",
     "uptimeYear": "2.44%",
-    "time": 286,
-    "timeDay": 256,
-    "timeWeek": 846,
+    "time": 287,
+    "timeDay": 372,
+    "timeWeek": 839,
     "timeMonth": 733,
-    "timeYear": 326,
+    "timeYear": 327,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -578,7 +578,7 @@
       "2026-05-28": 88,
       "2026-05-29": 633,
       "2026-05-30": 470,
-      "2026-05-31": 518
+      "2026-05-31": 711
     }
   },
   {
@@ -586,17 +586,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
-    "uptime": "62.82%",
-    "uptimeDay": "58.12%",
-    "uptimeWeek": "49.54%",
+    "status": "up",
+    "uptime": "62.81%",
+    "uptimeDay": "44.68%",
+    "uptimeWeek": "48.98%",
     "uptimeMonth": "25.80%",
     "uptimeYear": "2.31%",
-    "time": 324,
-    "timeDay": 704,
-    "timeWeek": 1806,
-    "timeMonth": 944,
-    "timeYear": 378,
+    "time": 328,
+    "timeDay": 1058,
+    "timeWeek": 1821,
+    "timeMonth": 956,
+    "timeYear": 383,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -962,7 +962,7 @@
       "2026-05-28": 621,
       "2026-05-29": 538,
       "2026-05-30": 413,
-      "2026-05-31": 518
+      "2026-05-31": 711
     }
   },
   {
@@ -982,7 +982,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-31": 634,
+      "2026-05-31": 829,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
