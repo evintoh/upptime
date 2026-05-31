@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.09%",
+    "uptimeYear": "51.13%",
     "time": 601,
     "timeDay": 967,
     "timeWeek": 1032,
@@ -202,17 +202,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "up",
+    "status": "down",
     "uptime": "67.24%",
-    "uptimeDay": "40.73%",
-    "uptimeWeek": "53.76%",
-    "uptimeMonth": "27.40%",
-    "uptimeYear": "2.44%",
+    "uptimeDay": "40.68%",
+    "uptimeWeek": "55.40%",
+    "uptimeMonth": "27.91%",
+    "uptimeYear": "2.49%",
     "time": 287,
-    "timeDay": 372,
-    "timeWeek": 839,
-    "timeMonth": 733,
-    "timeYear": 327,
+    "timeDay": 313,
+    "timeWeek": 804,
+    "timeMonth": 728,
+    "timeYear": 326,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -578,7 +578,7 @@
       "2026-05-28": 88,
       "2026-05-29": 633,
       "2026-05-30": 470,
-      "2026-05-31": 711
+      "2026-05-31": 712
     }
   },
   {
@@ -586,16 +586,16 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "up",
+    "status": "down",
     "uptime": "62.81%",
-    "uptimeDay": "44.68%",
-    "uptimeWeek": "48.98%",
-    "uptimeMonth": "25.80%",
-    "uptimeYear": "2.31%",
+    "uptimeDay": "44.64%",
+    "uptimeWeek": "50.35%",
+    "uptimeMonth": "26.31%",
+    "uptimeYear": "2.35%",
     "time": 328,
-    "timeDay": 1058,
-    "timeWeek": 1821,
-    "timeMonth": 956,
+    "timeDay": 937,
+    "timeWeek": 1900,
+    "timeMonth": 951,
     "timeYear": 383,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
@@ -962,7 +962,7 @@
       "2026-05-28": 621,
       "2026-05-29": 538,
       "2026-05-30": 413,
-      "2026-05-31": 711
+      "2026-05-31": 712
     }
   },
   {
@@ -982,7 +982,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-05-31": 829,
+      "2026-05-31": 1053,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
       "2026-05-28": 1440,
