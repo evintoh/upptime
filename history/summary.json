@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "51.35%",
+    "uptimeYear": "51.41%",
     "time": 603,
     "timeDay": 987,
     "timeWeek": 932,
@@ -201,16 +201,16 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "up",
+    "status": "down",
     "uptime": "67.21%",
-    "uptimeDay": "15.62%",
-    "uptimeWeek": "54.22%",
-    "uptimeMonth": "27.91%",
-    "uptimeYear": "2.49%",
+    "uptimeDay": "24.62%",
+    "uptimeWeek": "55.23%",
+    "uptimeMonth": "28.72%",
+    "uptimeYear": "2.55%",
     "time": 289,
-    "timeDay": 548,
-    "timeWeek": 790,
-    "timeMonth": 732,
+    "timeDay": 583,
+    "timeWeek": 765,
+    "timeMonth": 729,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
@@ -577,7 +577,7 @@
       "2026-05-29": 633,
       "2026-05-30": 470,
       "2026-05-31": 1099,
-      "2026-06-01": 744
+      "2026-06-01": 745
     }
   },
   {
@@ -585,17 +585,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "up",
+    "status": "down",
     "uptime": "62.79%",
-    "uptimeDay": "15.63%",
-    "uptimeWeek": "50.36%",
-    "uptimeMonth": "26.32%",
-    "uptimeYear": "2.35%",
-    "time": 329,
-    "timeDay": 920,
-    "timeWeek": 1867,
-    "timeMonth": 950,
-    "timeYear": 383,
+    "uptimeDay": "24.63%",
+    "uptimeWeek": "52.44%",
+    "uptimeMonth": "27.12%",
+    "uptimeYear": "2.42%",
+    "time": 330,
+    "timeDay": 506,
+    "timeWeek": 1898,
+    "timeMonth": 948,
+    "timeYear": 384,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -961,7 +961,7 @@
       "2026-05-29": 538,
       "2026-05-30": 413,
       "2026-05-31": 1099,
-      "2026-06-01": 744
+      "2026-06-01": 745
     }
   },
   {
@@ -981,7 +981,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-01": 745,
+      "2026-06-01": 1100,
       "2026-05-31": 1440,
       "2026-05-30": 1440,
       "2026-05-29": 1440,
