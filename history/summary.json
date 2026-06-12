@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.26%",
+    "uptimeYear": "54.29%",
     "time": 623,
     "timeDay": 880,
     "timeWeek": 1219,
@@ -190,17 +190,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "down",
+    "status": "up",
     "uptime": "66.83%",
-    "uptimeDay": "13.78%",
+    "uptimeDay": "13.82%",
     "uptimeWeek": "1.97%",
-    "uptimeMonth": "26.21%",
+    "uptimeMonth": "26.22%",
     "uptimeYear": "2.68%",
-    "time": 291,
-    "timeDay": 803,
-    "timeWeek": 301,
-    "timeMonth": 695,
-    "timeYear": 329,
+    "time": 294,
+    "timeDay": 1049,
+    "timeWeek": 450,
+    "timeMonth": 704,
+    "timeYear": 332,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -566,7 +566,7 @@
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
-      "2026-06-12": 225
+      "2026-06-12": 400
     }
   },
   {
@@ -574,17 +574,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
-    "uptime": "62.47%",
-    "uptimeDay": "33.20%",
-    "uptimeWeek": "7.25%",
+    "status": "up",
+    "uptime": "62.46%",
+    "uptimeDay": "31.77%",
+    "uptimeWeek": "5.84%",
     "uptimeMonth": "25.56%",
     "uptimeYear": "2.69%",
-    "time": 340,
-    "timeDay": 509,
-    "timeWeek": 413,
-    "timeMonth": 1014,
-    "timeYear": 391,
+    "time": 341,
+    "timeDay": 552,
+    "timeWeek": 474,
+    "timeMonth": 1013,
+    "timeYear": 392,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -950,7 +950,7 @@
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
-      "2026-06-12": 225
+      "2026-06-12": 400
     }
   },
   {
@@ -970,7 +970,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 225,
+      "2026-06-12": 401,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
