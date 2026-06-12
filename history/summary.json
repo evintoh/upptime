@@ -9,12 +9,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "54.47%",
+    "uptimeYear": "54.49%",
     "time": 623,
     "timeDay": 880,
     "timeWeek": 1219,
     "timeMonth": 1028,
-    "timeYear": 795,
+    "timeYear": 796,
     "dailyMinutesDown": {
       "2025-11-26": 148,
       "2025-11-25": 1440,
@@ -190,16 +190,16 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "up",
+    "status": "down",
     "uptime": "66.82%",
-    "uptimeDay": "26.14%",
-    "uptimeWeek": "5.70%",
-    "uptimeMonth": "26.71%",
-    "uptimeYear": "2.75%",
+    "uptimeDay": "32.69%",
+    "uptimeWeek": "6.64%",
+    "uptimeMonth": "26.93%",
+    "uptimeYear": "2.77%",
     "time": 299,
-    "timeDay": 1005,
-    "timeWeek": 598,
-    "timeMonth": 708,
+    "timeDay": 864,
+    "timeWeek": 560,
+    "timeMonth": 702,
     "timeYear": 337,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
@@ -566,7 +566,7 @@
       "2026-06-07": 1440,
       "2026-06-06": 1440,
       "2026-06-05": 1440,
-      "2026-06-12": 950
+      "2026-06-12": 951
     }
   },
   {
@@ -574,17 +574,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "up",
-    "uptime": "62.45%",
-    "uptimeDay": "26.17%",
-    "uptimeWeek": "8.48%",
-    "uptimeMonth": "26.05%",
-    "uptimeYear": "2.76%",
+    "status": "down",
+    "uptime": "62.46%",
+    "uptimeDay": "32.72%",
+    "uptimeWeek": "9.42%",
+    "uptimeMonth": "26.27%",
+    "uptimeYear": "2.78%",
     "time": 344,
-    "timeDay": 513,
-    "timeWeek": 432,
-    "timeMonth": 1002,
-    "timeYear": 394,
+    "timeDay": 443,
+    "timeWeek": 408,
+    "timeMonth": 993,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -950,7 +950,7 @@
       "2026-06-08": 1440,
       "2026-06-07": 1440,
       "2026-06-06": 1440,
-      "2026-06-12": 950
+      "2026-06-12": 951
     }
   },
   {
@@ -970,7 +970,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-12": 1327,
+      "2026-06-12": 1422,
       "2026-06-11": 1440,
       "2026-06-10": 1440,
       "2026-06-09": 1440,
@@ -1352,7 +1352,7 @@
     "timeDay": 1063,
     "timeWeek": 495,
     "timeMonth": 597,
-    "timeYear": 659,
+    "timeYear": 658,
     "dailyMinutesDown": {
       "2025-11-18": 68
     }
