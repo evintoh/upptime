@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "57.96%",
+    "uptimeYear": "57.99%",
     "time": 654,
     "timeDay": 921,
     "timeWeek": 1255,
@@ -178,16 +178,16 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "up",
-    "uptime": "66.44%",
-    "uptimeDay": "14.00%",
-    "uptimeWeek": "10.85%",
+    "status": "down",
+    "uptime": "66.45%",
+    "uptimeDay": "18.24%",
+    "uptimeWeek": "12.16%",
     "uptimeMonth": "20.26%",
-    "uptimeYear": "3.34%",
+    "uptimeYear": "3.36%",
     "time": 298,
-    "timeDay": 572,
-    "timeWeek": 467,
-    "timeMonth": 590,
+    "timeDay": 576,
+    "timeWeek": 446,
+    "timeMonth": 584,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
@@ -554,7 +554,7 @@
       "2026-06-20": 1440,
       "2026-06-23": 1315,
       "2026-06-24": 1347,
-      "2026-06-25": 956
+      "2026-06-25": 957
     }
   },
   {
@@ -562,17 +562,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "up",
+    "status": "down",
     "uptime": "62.14%",
-    "uptimeDay": "14.03%",
-    "uptimeWeek": "15.46%",
-    "uptimeMonth": "22.95%",
-    "uptimeYear": "3.49%",
+    "uptimeDay": "18.27%",
+    "uptimeWeek": "16.78%",
+    "uptimeMonth": "23.26%",
+    "uptimeYear": "3.51%",
     "time": 342,
-    "timeDay": 839,
-    "timeWeek": 587,
-    "timeMonth": 938,
-    "timeYear": 415,
+    "timeDay": 830,
+    "timeWeek": 567,
+    "timeMonth": 930,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -938,7 +938,7 @@
       "2026-06-22": 968,
       "2026-06-23": 1004,
       "2026-06-24": 1237,
-      "2026-06-25": 955
+      "2026-06-25": 956
     }
   },
   {
@@ -958,7 +958,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-25": 1086,
+      "2026-06-25": 1219,
       "2026-06-24": 1440,
       "2026-06-23": 1440,
       "2026-06-22": 1440,
