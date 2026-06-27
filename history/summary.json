@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "58.34%",
+    "uptimeYear": "58.44%",
     "time": 658,
     "timeDay": 1590,
     "timeWeek": 1225,
@@ -177,15 +177,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
     "status": "down",
-    "uptime": "66.40%",
-    "uptimeDay": "12.32%",
+    "uptime": "66.39%",
+    "uptimeDay": "0.00%",
     "uptimeWeek": "12.95%",
-    "uptimeMonth": "18.46%",
+    "uptimeMonth": "17.67%",
     "uptimeYear": "3.40%",
     "time": 299,
-    "timeDay": 443,
+    "timeDay": 49,
     "timeWeek": 408,
-    "timeMonth": 568,
+    "timeMonth": 562,
     "timeYear": 356,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
@@ -552,7 +552,7 @@
       "2026-06-24": 1347,
       "2026-06-25": 1178,
       "2026-06-26": 1262,
-      "2026-06-27": 174
+      "2026-06-27": 709
     }
   },
   {
@@ -560,17 +560,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
-    "uptime": "62.11%",
-    "uptimeDay": "20.17%",
+    "status": "up",
+    "uptime": "62.10%",
+    "uptimeDay": "7.89%",
     "uptimeWeek": "17.65%",
-    "uptimeMonth": "21.53%",
+    "uptimeMonth": "20.74%",
     "uptimeYear": "3.57%",
-    "time": 344,
-    "timeDay": 463,
-    "timeWeek": 519,
-    "timeMonth": 920,
-    "timeYear": 414,
+    "time": 346,
+    "timeDay": 742,
+    "timeWeek": 545,
+    "timeMonth": 911,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -936,7 +936,7 @@
       "2026-06-24": 1237,
       "2026-06-25": 1177,
       "2026-06-26": 1257,
-      "2026-06-27": 66
+      "2026-06-27": 601
     }
   },
   {
@@ -956,7 +956,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 174,
+      "2026-06-27": 709,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
