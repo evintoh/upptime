@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sg.bookmyshow.com.ico",
     "slug": "bms-sg",
     "status": "up",
-    "uptime": "77.91%",
+    "uptime": "77.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "58.45%",
+    "uptimeYear": "58.50%",
     "time": 658,
     "timeDay": 1590,
     "timeWeek": 1225,
@@ -177,10 +177,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
     "status": "down",
-    "uptime": "66.39%",
+    "uptime": "66.38%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "12.95%",
-    "uptimeMonth": "17.51%",
+    "uptimeMonth": "16.99%",
     "uptimeYear": "3.40%",
     "time": 299,
     "timeDay": 49,
@@ -552,7 +552,7 @@
       "2026-06-24": 1347,
       "2026-06-25": 1178,
       "2026-06-26": 1262,
-      "2026-06-27": 778
+      "2026-06-27": 1006
     }
   },
   {
@@ -560,17 +560,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
-    "uptime": "62.10%",
-    "uptimeDay": "12.66%",
-    "uptimeWeek": "18.33%",
-    "uptimeMonth": "20.74%",
+    "status": "up",
+    "uptime": "62.09%",
+    "uptimeDay": "12.70%",
+    "uptimeWeek": "18.34%",
+    "uptimeMonth": "20.22%",
     "uptimeYear": "3.58%",
-    "time": 346,
-    "timeDay": 568,
-    "timeWeek": 528,
+    "time": 347,
+    "timeDay": 626,
+    "timeWeek": 539,
     "timeMonth": 903,
-    "timeYear": 415,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -936,7 +936,7 @@
       "2026-06-24": 1237,
       "2026-06-25": 1177,
       "2026-06-26": 1257,
-      "2026-06-27": 602
+      "2026-06-27": 829
     }
   },
   {
@@ -956,7 +956,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-27": 779,
+      "2026-06-27": 1006,
       "2026-06-26": 1440,
       "2026-06-25": 1440,
       "2026-06-24": 1440,
