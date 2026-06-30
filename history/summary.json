@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "59.22%",
+    "uptimeYear": "59.26%",
     "time": 663,
     "timeDay": 1386,
     "timeWeek": 1068,
@@ -173,17 +173,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "up",
-    "uptime": "66.31%",
-    "uptimeDay": "37.89%",
-    "uptimeWeek": "14.78%",
+    "status": "down",
+    "uptime": "66.32%",
+    "uptimeDay": "51.09%",
+    "uptimeWeek": "16.66%",
     "uptimeMonth": "13.56%",
-    "uptimeYear": "3.56%",
+    "uptimeYear": "3.59%",
     "time": 307,
-    "timeDay": 1034,
-    "timeWeek": 541,
-    "timeMonth": 500,
-    "timeYear": 364,
+    "timeDay": 864,
+    "timeWeek": 519,
+    "timeMonth": 494,
+    "timeYear": 363,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -549,7 +549,7 @@
       "2026-06-29": 883,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
-      "2026-06-30": 212
+      "2026-06-30": 213
     }
   },
   {
@@ -558,10 +558,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
     "status": "down",
-    "uptime": "62.05%",
+    "uptime": "62.04%",
     "uptimeDay": "53.86%",
     "uptimeWeek": "24.32%",
-    "uptimeMonth": "18.29%",
+    "uptimeMonth": "17.86%",
     "uptimeYear": "3.81%",
     "time": 352,
     "timeDay": 385,
@@ -933,7 +933,7 @@
       "2026-06-27": 1203,
       "2026-06-28": 1374,
       "2026-06-29": 636,
-      "2026-06-30": 228
+      "2026-06-30": 419
     }
   },
   {
@@ -953,7 +953,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-30": 487,
+      "2026-06-30": 678,
       "2026-06-29": 1440,
       "2026-06-28": 1440,
       "2026-06-27": 1440,
