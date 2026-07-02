@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "59.74%",
+    "uptimeYear": "59.77%",
     "time": 668,
     "timeDay": 1649,
     "timeWeek": 1176,
@@ -171,17 +171,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "down",
+    "status": "up",
     "uptime": "66.29%",
-    "uptimeDay": "45.50%",
+    "uptimeDay": "45.54%",
     "uptimeWeek": "24.66%",
     "uptimeMonth": "16.18%",
     "uptimeYear": "3.79%",
-    "time": 316,
-    "timeDay": 594,
-    "timeWeek": 650,
-    "timeMonth": 541,
-    "timeYear": 372,
+    "time": 318,
+    "timeDay": 810,
+    "timeWeek": 691,
+    "timeMonth": 557,
+    "timeYear": 375,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -547,7 +547,7 @@
       "2026-06-27": 1440,
       "2026-06-30": 721,
       "2026-07-01": 1008,
-      "2026-07-02": 1
+      "2026-07-02": 173
     }
   },
   {
@@ -555,17 +555,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
-    "uptime": "62.02%",
-    "uptimeDay": "43.82%",
-    "uptimeWeek": "27.79%",
+    "status": "up",
+    "uptime": "62.01%",
+    "uptimeDay": "43.85%",
+    "uptimeWeek": "27.80%",
     "uptimeMonth": "20.27%",
     "uptimeYear": "3.99%",
     "time": 361,
-    "timeDay": 835,
-    "timeWeek": 606,
-    "timeMonth": 530,
-    "timeYear": 425,
+    "timeDay": 752,
+    "timeWeek": 593,
+    "timeMonth": 526,
+    "timeYear": 424,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -931,7 +931,7 @@
       "2026-06-29": 636,
       "2026-06-30": 822,
       "2026-07-01": 1146,
-      "2026-07-02": 1
+      "2026-07-02": 173
     }
   },
   {
@@ -951,7 +951,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-02": 338,
+      "2026-07-02": 511,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
       "2026-06-29": 1440,
