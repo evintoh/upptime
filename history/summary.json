@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "59.96%",
+    "uptimeYear": "59.98%",
     "time": 670,
     "timeDay": 1044,
     "timeWeek": 1187,
@@ -172,7 +172,7 @@
     "slug": "bms-id",
     "status": "down",
     "uptime": "66.28%",
-    "uptimeDay": "46.91%",
+    "uptimeDay": "40.36%",
     "uptimeWeek": "26.13%",
     "uptimeMonth": "17.12%",
     "uptimeYear": "3.86%",
@@ -546,7 +546,7 @@
       "2026-06-30": 721,
       "2026-07-01": 1008,
       "2026-07-02": 692,
-      "2026-07-03": 73
+      "2026-07-03": 167
     }
   },
   {
@@ -557,9 +557,9 @@
     "status": "up",
     "uptime": "62.01%",
     "uptimeDay": "41.16%",
-    "uptimeWeek": "28.44%",
-    "uptimeMonth": "21.02%",
-    "uptimeYear": "4.06%",
+    "uptimeWeek": "29.37%",
+    "uptimeMonth": "21.24%",
+    "uptimeYear": "4.07%",
     "time": 365,
     "timeDay": 511,
     "timeWeek": 567,
@@ -950,7 +950,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-03": 73,
+      "2026-07-03": 167,
       "2026-07-02": 1440,
       "2026-07-01": 1440,
       "2026-06-30": 1440,
