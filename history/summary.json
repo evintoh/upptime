@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "61.00%",
+    "uptimeYear": "61.03%",
     "time": 677,
     "timeDay": 407,
     "timeWeek": 1326,
@@ -167,16 +167,16 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "up",
+    "status": "down",
     "uptime": "66.19%",
-    "uptimeDay": "63.80%",
-    "uptimeWeek": "31.41%",
-    "uptimeMonth": "18.98%",
-    "uptimeYear": "4.10%",
+    "uptimeDay": "63.74%",
+    "uptimeWeek": "32.91%",
+    "uptimeMonth": "19.32%",
+    "uptimeYear": "4.13%",
     "time": 331,
-    "timeDay": 1016,
-    "timeWeek": 813,
-    "timeMonth": 614,
+    "timeDay": 849,
+    "timeWeek": 787,
+    "timeMonth": 607,
     "timeYear": 386,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
@@ -543,7 +543,7 @@
       "2026-07-05": 876,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
-      "2026-07-06": 522
+      "2026-07-06": 523
     }
   },
   {
@@ -551,17 +551,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "up",
-    "uptime": "61.96%",
-    "uptimeDay": "55.67%",
-    "uptimeWeek": "30.36%",
-    "uptimeMonth": "22.19%",
-    "uptimeYear": "4.33%",
+    "status": "down",
+    "uptime": "61.98%",
+    "uptimeDay": "55.63%",
+    "uptimeWeek": "31.85%",
+    "uptimeMonth": "22.54%",
+    "uptimeYear": "4.36%",
     "time": 370,
-    "timeDay": 782,
-    "timeWeek": 579,
-    "timeMonth": 526,
-    "timeYear": 430,
+    "timeDay": 591,
+    "timeWeek": 562,
+    "timeMonth": 521,
+    "timeYear": 429,
     "dailyMinutesDown": {
       "2026-05-06": 1033,
       "2026-05-05": 1440,
@@ -927,7 +927,7 @@
       "2026-07-03": 1145,
       "2026-07-04": 1373,
       "2026-07-05": 942,
-      "2026-07-06": 638
+      "2026-07-06": 639
     }
   },
   {
@@ -947,7 +947,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-06": 1218,
+      "2026-07-06": 1369,
       "2026-07-05": 1440,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
