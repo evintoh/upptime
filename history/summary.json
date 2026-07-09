@@ -9,10 +9,10 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "61.59%",
+    "uptimeYear": "61.61%",
     "time": 685,
     "timeDay": 915,
-    "timeWeek": 1377,
+    "timeWeek": 1339,
     "timeMonth": 1262,
     "timeYear": 875,
     "dailyMinutesDown": {
@@ -156,7 +156,6 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
       "2026-06-17": 120
     }
   },
@@ -165,17 +164,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "up",
+    "status": "down",
     "uptime": "66.13%",
-    "uptimeDay": "20.32%",
-    "uptimeWeek": "24.85%",
-    "uptimeMonth": "20.11%",
-    "uptimeYear": "4.20%",
+    "uptimeDay": "26.55%",
+    "uptimeWeek": "24.98%",
+    "uptimeMonth": "20.31%",
+    "uptimeYear": "4.22%",
     "time": 337,
-    "timeDay": 922,
-    "timeWeek": 740,
-    "timeMonth": 631,
-    "timeYear": 392,
+    "timeDay": 772,
+    "timeWeek": 694,
+    "timeMonth": 625,
+    "timeYear": 391,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -478,7 +477,6 @@
       "2025-07-12": 1440,
       "2025-07-11": 1440,
       "2025-07-10": 1440,
-      "2025-07-09": 1440,
       "2026-05-07": 1002,
       "2026-05-08": 1023,
       "2026-05-09": 1311,
@@ -541,7 +539,8 @@
       "2026-07-03": 1440,
       "2026-07-06": 594,
       "2026-07-07": 1387,
-      "2026-07-08": 1147
+      "2026-07-08": 1134,
+      "2026-07-09": 1
     }
   },
   {
@@ -552,12 +551,12 @@
     "status": "down",
     "uptime": "97.29%",
     "uptimeDay": "26.10%",
-    "uptimeWeek": "27.78%",
+    "uptimeWeek": "27.02%",
     "uptimeMonth": "23.78%",
-    "uptimeYear": "87.12%",
+    "uptimeYear": "87.10%",
     "time": 374,
     "timeDay": 312,
-    "timeWeek": 451,
+    "timeWeek": 438,
     "timeMonth": 524,
     "timeYear": 430,
     "dailyMinutesDown": {
@@ -624,7 +623,8 @@
       "2026-07-05": 942,
       "2026-07-06": 710,
       "2026-07-07": 1271,
-      "2026-07-08": 1064
+      "2026-07-08": 1064,
+      "2026-07-09": 77
     }
   },
   {
@@ -644,6 +644,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
+      "2026-07-09": 77,
       "2026-07-08": 1440,
       "2026-07-07": 1440,
       "2026-07-06": 1440,
@@ -1007,8 +1008,7 @@
       "2025-07-13": 1440,
       "2025-07-12": 1440,
       "2025-07-11": 1440,
-      "2025-07-10": 1440,
-      "2025-07-09": 1440
+      "2025-07-10": 1440
     }
   },
   {
@@ -1024,7 +1024,7 @@
     "uptimeYear": "99.99%",
     "time": 658,
     "timeDay": 299,
-    "timeWeek": 605,
+    "timeWeek": 647,
     "timeMonth": 819,
     "timeYear": 674,
     "dailyMinutesDown": {
