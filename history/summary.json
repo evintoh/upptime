@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "62.21%",
+    "uptimeYear": "62.23%",
     "time": 688,
     "timeDay": 1231,
     "timeWeek": 1188,
@@ -162,17 +162,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "down",
+    "status": "up",
     "uptime": "66.06%",
-    "uptimeDay": "16.79%",
-    "uptimeWeek": "20.71%",
-    "uptimeMonth": "20.86%",
+    "uptimeDay": "16.84%",
+    "uptimeWeek": "20.72%",
+    "uptimeMonth": "20.87%",
     "uptimeYear": "4.26%",
-    "time": 338,
-    "timeDay": 329,
-    "timeWeek": 678,
-    "timeMonth": 622,
-    "timeYear": 391,
+    "time": 340,
+    "timeDay": 708,
+    "timeWeek": 724,
+    "timeMonth": 634,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -538,7 +538,7 @@
       "2026-07-08": 1134,
       "2026-07-10": 1199,
       "2026-07-09": 1364,
-      "2026-07-11": 359
+      "2026-07-11": 468
     }
   },
   {
@@ -547,15 +547,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
     "status": "down",
-    "uptime": "97.22%",
+    "uptime": "97.21%",
     "uptimeDay": "17.13%",
     "uptimeWeek": "20.70%",
-    "uptimeMonth": "24.34%",
-    "uptimeYear": "86.74%",
+    "uptimeMonth": "24.14%",
+    "uptimeYear": "86.72%",
     "time": 374,
     "timeDay": 249,
     "timeWeek": 366,
-    "timeMonth": 508,
+    "timeMonth": 507,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2026-05-08": 1081,
@@ -623,7 +623,7 @@
       "2026-07-08": 1064,
       "2026-07-10": 1336,
       "2026-07-09": 1440,
-      "2026-07-11": 217
+      "2026-07-11": 326
     }
   },
   {
@@ -643,7 +643,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 359,
+      "2026-07-11": 469,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
