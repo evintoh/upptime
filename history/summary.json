@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "62.25%",
+    "uptimeYear": "62.26%",
     "time": 688,
     "timeDay": 1231,
     "timeWeek": 1188,
@@ -162,17 +162,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "down",
+    "status": "up",
     "uptime": "66.06%",
-    "uptimeDay": "22.50%",
-    "uptimeWeek": "21.53%",
+    "uptimeDay": "22.55%",
+    "uptimeWeek": "21.54%",
     "uptimeMonth": "21.05%",
     "uptimeYear": "4.28%",
-    "time": 340,
-    "timeDay": 570,
-    "timeWeek": 697,
-    "timeMonth": 628,
-    "timeYear": 393,
+    "time": 341,
+    "timeDay": 618,
+    "timeWeek": 703,
+    "timeMonth": 630,
+    "timeYear": 394,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
       "2026-05-05": 1440,
@@ -538,7 +538,7 @@
       "2026-07-08": 1134,
       "2026-07-10": 1199,
       "2026-07-09": 1364,
-      "2026-07-11": 469
+      "2026-07-11": 550
     }
   },
   {
@@ -546,17 +546,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
+    "status": "up",
     "uptime": "97.21%",
-    "uptimeDay": "17.13%",
+    "uptimeDay": "17.17%",
     "uptimeWeek": "20.70%",
-    "uptimeMonth": "23.95%",
-    "uptimeYear": "86.71%",
-    "time": 374,
-    "timeDay": 249,
-    "timeWeek": 366,
-    "timeMonth": 507,
-    "timeYear": 428,
+    "uptimeMonth": "23.77%",
+    "uptimeYear": "86.69%",
+    "time": 376,
+    "timeDay": 503,
+    "timeWeek": 424,
+    "timeMonth": 517,
+    "timeYear": 430,
     "dailyMinutesDown": {
       "2026-05-08": 1081,
       "2026-05-07": 228,
@@ -623,7 +623,7 @@
       "2026-07-08": 1064,
       "2026-07-10": 1336,
       "2026-07-09": 1440,
-      "2026-07-11": 409
+      "2026-07-11": 490
     }
   },
   {
@@ -643,7 +643,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-11": 551,
+      "2026-07-11": 633,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
       "2026-07-08": 1440,
