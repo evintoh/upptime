@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "62.62%",
+    "uptimeYear": "62.64%",
     "time": 689,
     "timeDay": 868,
     "timeWeek": 1010,
@@ -162,15 +162,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
     "status": "down",
-    "uptime": "66.03%",
+    "uptime": "66.02%",
     "uptimeDay": "15.14%",
-    "uptimeWeek": "22.76%",
-    "uptimeMonth": "20.79%",
+    "uptimeWeek": "22.04%",
+    "uptimeMonth": "20.67%",
     "uptimeYear": "4.34%",
     "time": 342,
     "timeDay": 369,
     "timeWeek": 579,
-    "timeMonth": 602,
+    "timeMonth": 584,
     "timeYear": 394,
     "dailyMinutesDown": {
       "2026-05-06": 1205,
@@ -537,7 +537,7 @@
       "2026-07-10": 1199,
       "2026-07-09": 1364,
       "2026-07-11": 1241,
-      "2026-07-12": 870
+      "2026-07-12": 942
     }
   },
   {
@@ -545,20 +545,19 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "up",
-    "uptime": "97.22%",
-    "uptimeDay": "21.53%",
+    "status": "down",
+    "uptime": "97.26%",
+    "uptimeDay": "26.52%",
     "uptimeWeek": "22.25%",
-    "uptimeMonth": "23.52%",
-    "uptimeYear": "86.76%",
-    "time": 382,
-    "timeDay": 701,
-    "timeWeek": 496,
-    "timeMonth": 526,
+    "uptimeMonth": "23.56%",
+    "uptimeYear": "86.93%",
+    "time": 381,
+    "timeDay": 616,
+    "timeWeek": 480,
+    "timeMonth": 519,
     "timeYear": 433,
     "dailyMinutesDown": {
-      "2026-05-10": 760,
-      "2026-05-09": 803,
+      "2026-05-10": 674,
       "2026-05-11": 1081,
       "2026-05-12": 1280,
       "2026-05-13": 1244,
@@ -621,7 +620,7 @@
       "2026-07-10": 1336,
       "2026-07-09": 1440,
       "2026-07-11": 1222,
-      "2026-07-12": 795
+      "2026-07-12": 796
     }
   },
   {
@@ -641,7 +640,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 1088,
+      "2026-07-12": 1160,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
