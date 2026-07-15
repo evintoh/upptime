@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "63.44%",
+    "uptimeYear": "63.45%",
     "time": 695,
     "timeDay": 528,
     "timeWeek": 1012,
@@ -158,20 +158,19 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "up",
-    "uptime": "97.06%",
-    "uptimeDay": "42.92%",
-    "uptimeWeek": "22.19%",
+    "status": "down",
+    "uptime": "97.11%",
+    "uptimeDay": "42.87%",
+    "uptimeWeek": "22.83%",
     "uptimeMonth": "20.28%",
-    "uptimeYear": "85.94%",
+    "uptimeYear": "86.18%",
     "time": 358,
-    "timeDay": 984,
-    "timeWeek": 606,
-    "timeMonth": 576,
+    "timeDay": 919,
+    "timeWeek": 600,
+    "timeMonth": 575,
     "timeYear": 405,
     "dailyMinutesDown": {
-      "2026-05-10": 1136,
-      "2026-05-09": 804,
+      "2026-05-10": 694,
       "2026-05-11": 1220,
       "2026-05-12": 1280,
       "2026-05-14": 1328,
@@ -237,7 +236,7 @@
       "2026-07-12": 1222,
       "2026-07-13": 874,
       "2026-07-14": 985,
-      "2026-07-15": 650
+      "2026-07-15": 651
     }
   },
   {
@@ -247,13 +246,13 @@
     "slug": "bms-my",
     "status": "down",
     "uptime": "97.30%",
-    "uptimeDay": "33.28%",
-    "uptimeWeek": "17.14%",
-    "uptimeMonth": "21.71%",
-    "uptimeYear": "87.11%",
+    "uptimeDay": "28.70%",
+    "uptimeWeek": "16.84%",
+    "uptimeMonth": "21.56%",
+    "uptimeYear": "87.10%",
     "time": 393,
     "timeDay": 662,
-    "timeWeek": 536,
+    "timeWeek": 550,
     "timeMonth": 542,
     "timeYear": 440,
     "dailyMinutesDown": {
@@ -320,7 +319,7 @@
       "2026-07-12": 1075,
       "2026-07-13": 1088,
       "2026-07-14": 1160,
-      "2026-07-15": 738
+      "2026-07-15": 804
     }
   },
   {
@@ -340,7 +339,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-15": 1055,
+      "2026-07-15": 1121,
       "2026-07-14": 1440,
       "2026-07-13": 1440,
       "2026-07-12": 1440,
