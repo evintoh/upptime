@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "65.56%",
+    "uptimeYear": "65.58%",
     "time": 703,
     "timeDay": 464,
     "timeWeek": 609,
@@ -151,14 +151,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
     "status": "down",
-    "uptime": "97.12%",
-    "uptimeDay": "14.51%",
-    "uptimeWeek": "24.38%",
+    "uptime": "97.11%",
+    "uptimeDay": "14.14%",
+    "uptimeWeek": "23.87%",
     "uptimeMonth": "23.23%",
-    "uptimeYear": "86.17%",
+    "uptimeYear": "86.15%",
     "time": 380,
-    "timeDay": 722,
-    "timeWeek": 572,
+    "timeDay": 440,
+    "timeWeek": 530,
     "timeMonth": 605,
     "timeYear": 418,
     "dailyMinutesDown": {
@@ -228,7 +228,7 @@
       "2026-07-20": 796,
       "2026-07-21": 835,
       "2026-07-22": 935,
-      "2026-07-23": 684
+      "2026-07-23": 773
     }
   },
   {
@@ -236,20 +236,20 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "up",
-    "uptime": "97.34%",
-    "uptimeDay": "20.13%",
-    "uptimeWeek": "27.43%",
-    "uptimeMonth": "25.35%",
-    "uptimeYear": "87.26%",
+    "status": "down",
+    "uptime": "97.36%",
+    "uptimeDay": "25.88%",
+    "uptimeWeek": "27.42%",
+    "uptimeMonth": "25.39%",
+    "uptimeYear": "87.36%",
     "time": 385,
-    "timeDay": 909,
-    "timeWeek": 566,
-    "timeMonth": 539,
+    "timeDay": 652,
+    "timeWeek": 552,
+    "timeMonth": 532,
     "timeYear": 451,
     "dailyMinutesDown": {
-      "2026-05-23": 799,
       "2026-05-24": 1297,
+      "2026-05-23": 265,
       "2026-05-25": 1292,
       "2026-05-26": 509,
       "2026-05-27": 533,
@@ -309,7 +309,7 @@
       "2026-07-20": 981,
       "2026-07-21": 961,
       "2026-07-22": 682,
-      "2026-07-23": 684
+      "2026-07-23": 685
     }
   },
   {
@@ -329,7 +329,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-23": 684,
+      "2026-07-23": 773,
       "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
