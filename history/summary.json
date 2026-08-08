@@ -12,8 +12,8 @@
     "uptimeYear": "69.81%",
     "time": 741,
     "timeDay": 997,
-    "timeWeek": 1404,
-    "timeMonth": 1119,
+    "timeWeek": 1377,
+    "timeMonth": 1090,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2025-11-26": 148,
@@ -126,7 +126,6 @@
       "2025-08-11": 1440,
       "2025-08-10": 1440,
       "2025-08-09": 1440,
-      "2025-08-08": 1440,
       "2026-06-17": 120
     }
   },
@@ -140,11 +139,11 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "1.81%",
     "uptimeMonth": "10.63%",
-    "uptimeYear": "82.25%",
+    "uptimeYear": "82.24%",
     "time": 357,
     "timeDay": 42,
-    "timeWeek": 400,
-    "timeMonth": 516,
+    "timeWeek": 433,
+    "timeMonth": 521,
     "timeYear": 420,
     "dailyMinutesDown": {
       "2026-05-19": 114,
@@ -226,7 +225,8 @@
       "2026-08-02": 1440,
       "2026-08-01": 1440,
       "2026-08-05": 1316,
-      "2026-08-07": 1424,
+      "2026-08-08": 5,
+      "2026-08-07": 1440,
       "2026-08-06": 1440
     }
   },
@@ -235,19 +235,18 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "up",
-    "uptime": "96.65%",
-    "uptimeDay": "0.04%",
-    "uptimeWeek": "1.23%",
-    "uptimeMonth": "10.44%",
-    "uptimeYear": "83.78%",
+    "status": "down",
+    "uptime": "96.66%",
+    "uptimeDay": "1.47%",
+    "uptimeWeek": "1.44%",
+    "uptimeMonth": "10.48%",
+    "uptimeYear": "83.83%",
     "time": 392,
-    "timeDay": 508,
-    "timeWeek": 405,
+    "timeDay": 388,
+    "timeWeek": 406,
     "timeMonth": 495,
-    "timeYear": 455,
+    "timeYear": 454,
     "dailyMinutesDown": {
-      "2026-05-26": 261,
       "2026-05-27": 533,
       "2026-05-28": 621,
       "2026-05-29": 538,
@@ -320,7 +319,8 @@
       "2026-07-31": 1440,
       "2026-07-30": 1440,
       "2026-08-07": 1424,
-      "2026-08-06": 1440
+      "2026-08-06": 1440,
+      "2026-08-08": 1
     }
   },
   {
@@ -340,7 +340,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-07": 1424,
+      "2026-08-08": 5,
+      "2026-08-07": 1440,
       "2026-08-06": 1440,
       "2026-08-05": 1440,
       "2026-08-04": 1440,
@@ -703,8 +704,7 @@
       "2025-08-12": 1440,
       "2025-08-11": 1440,
       "2025-08-10": 1440,
-      "2025-08-09": 1440,
-      "2025-08-08": 1440
+      "2025-08-09": 1440
     }
   },
   {
@@ -720,8 +720,8 @@
     "uptimeYear": "99.99%",
     "time": 648,
     "timeDay": 598,
-    "timeWeek": 596,
-    "timeMonth": 571,
+    "timeWeek": 620,
+    "timeMonth": 556,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2025-11-18": 68
