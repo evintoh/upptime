@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "71.74%",
+    "uptimeYear": "71.84%",
     "time": 753,
     "timeDay": 996,
     "timeWeek": 1041,
@@ -127,17 +127,17 @@
     "url": "https://id.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
-    "status": "down",
-    "uptime": "96.02%",
-    "uptimeDay": "2.31%",
-    "uptimeWeek": "3.52%",
-    "uptimeMonth": "6.70%",
-    "uptimeYear": "80.68%",
-    "time": 364,
-    "timeDay": 456,
-    "timeWeek": 476,
-    "timeMonth": 497,
-    "timeYear": 424,
+    "status": "up",
+    "uptime": "96.00%",
+    "uptimeDay": "2.36%",
+    "uptimeWeek": "3.53%",
+    "uptimeMonth": "6.02%",
+    "uptimeYear": "80.58%",
+    "time": 365,
+    "timeDay": 671,
+    "timeWeek": 509,
+    "timeMonth": 505,
+    "timeYear": 425,
     "dailyMinutesDown": {
       "2026-05-22": 928,
       "2026-05-21": 183,
@@ -225,7 +225,7 @@
       "2026-08-13": 1330,
       "2026-08-12": 1396,
       "2026-08-14": 1407,
-      "2026-08-15": 65
+      "2026-08-15": 595
     }
   },
   {
@@ -234,15 +234,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
     "status": "down",
-    "uptime": "96.32%",
+    "uptime": "96.30%",
     "uptimeDay": "4.67%",
     "uptimeWeek": "1.79%",
-    "uptimeMonth": "6.91%",
-    "uptimeYear": "82.12%",
+    "uptimeMonth": "6.30%",
+    "uptimeYear": "82.02%",
     "time": 393,
     "timeDay": 363,
     "timeWeek": 232,
-    "timeMonth": 425,
+    "timeMonth": 434,
     "timeYear": 452,
     "dailyMinutesDown": {
       "2026-05-29": 538,
@@ -324,7 +324,7 @@
       "2026-08-14": 1373,
       "2026-08-13": 1440,
       "2026-08-12": 1396,
-      "2026-08-15": 65
+      "2026-08-15": 596
     }
   },
   {
@@ -344,7 +344,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-15": 65,
+      "2026-08-15": 596,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
       "2026-08-12": 1440,
