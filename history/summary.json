@@ -12,7 +12,7 @@
     "uptimeYear": "72.27%",
     "time": 758,
     "timeDay": 1954,
-    "timeWeek": 1092,
+    "timeWeek": 1105,
     "timeMonth": 1102,
     "timeYear": 972,
     "dailyMinutesDown": {
@@ -131,10 +131,10 @@
     "uptimeDay": "1.07%",
     "uptimeWeek": "3.07%",
     "uptimeMonth": "5.23%",
-    "uptimeYear": "80.46%",
+    "uptimeYear": "80.45%",
     "time": 367,
     "timeDay": 670,
-    "timeWeek": 499,
+    "timeWeek": 521,
     "timeMonth": 458,
     "timeYear": 426,
     "dailyMinutesDown": {
@@ -223,7 +223,7 @@
       "2026-08-12": 1396,
       "2026-08-14": 1407,
       "2026-08-15": 1424,
-      "2026-08-16": 1376
+      "2026-08-16": 1396
     }
   },
   {
@@ -231,20 +231,20 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "up",
-    "uptime": "96.28%",
-    "uptimeDay": "5.24%",
-    "uptimeWeek": "2.03%",
-    "uptimeMonth": "5.19%",
-    "uptimeYear": "81.93%",
+    "status": "down",
+    "uptime": "96.29%",
+    "uptimeDay": "6.61%",
+    "uptimeWeek": "2.23%",
+    "uptimeMonth": "5.24%",
+    "uptimeYear": "81.96%",
     "time": 406,
-    "timeDay": 1236,
-    "timeWeek": 610,
-    "timeMonth": 503,
+    "timeDay": 1086,
+    "timeWeek": 609,
+    "timeMonth": 498,
     "timeYear": 463,
     "dailyMinutesDown": {
-      "2026-05-31": 582,
       "2026-06-01": 1085,
+      "2026-05-31": 388,
       "2026-06-04": 992,
       "2026-06-03": 1440,
       "2026-06-02": 1440,
@@ -320,7 +320,7 @@
       "2026-08-13": 1440,
       "2026-08-12": 1396,
       "2026-08-15": 1430,
-      "2026-08-16": 1316
+      "2026-08-16": 1317
     }
   },
   {
@@ -340,7 +340,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-16": 1391,
+      "2026-08-16": 1411,
       "2026-08-15": 1440,
       "2026-08-14": 1440,
       "2026-08-13": 1440,
@@ -720,7 +720,7 @@
     "uptimeYear": "99.99%",
     "time": 646,
     "timeDay": 296,
-    "timeWeek": 614,
+    "timeWeek": 619,
     "timeMonth": 568,
     "timeYear": 654,
     "dailyMinutesDown": {
