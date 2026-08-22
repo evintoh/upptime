@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "73.75%",
+    "uptimeYear": "73.83%",
     "time": 768,
     "timeDay": 974,
     "timeWeek": 1243,
@@ -121,15 +121,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
     "status": "down",
-    "uptime": "95.75%",
-    "uptimeDay": "1.85%",
-    "uptimeWeek": "1.35%",
-    "uptimeMonth": "0.86%",
-    "uptimeYear": "79.26%",
+    "uptime": "95.73%",
+    "uptimeDay": "0.00%",
+    "uptimeWeek": "1.19%",
+    "uptimeMonth": "0.56%",
+    "uptimeYear": "79.18%",
     "time": 373,
-    "timeDay": 617,
-    "timeWeek": 550,
-    "timeMonth": 448,
+    "timeDay": 45,
+    "timeWeek": 549,
+    "timeMonth": 440,
     "timeYear": 431,
     "dailyMinutesDown": {
       "2026-05-24": 611,
@@ -222,7 +222,7 @@
       "2026-08-18": 1440,
       "2026-08-21": 1414,
       "2026-08-20": 1440,
-      "2026-08-22": 544
+      "2026-08-22": 956
     }
   },
   {
@@ -230,17 +230,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
-    "uptime": "96.56%",
-    "uptimeDay": "6.96%",
-    "uptimeWeek": "2.78%",
-    "uptimeMonth": "1.14%",
-    "uptimeYear": "83.20%",
-    "time": 415,
-    "timeDay": 933,
-    "timeWeek": 725,
-    "timeMonth": 512,
-    "timeYear": 467,
+    "status": "up",
+    "uptime": "96.54%",
+    "uptimeDay": "3.27%",
+    "uptimeWeek": "2.72%",
+    "uptimeMonth": "0.42%",
+    "uptimeYear": "83.12%",
+    "time": 417,
+    "timeDay": 1172,
+    "timeWeek": 757,
+    "timeMonth": 523,
+    "timeYear": 470,
     "dailyMinutesDown": {
       "2026-06-12": 969,
       "2026-06-11": 368,
@@ -314,7 +314,7 @@
       "2026-08-20": 1395,
       "2026-08-19": 1440,
       "2026-08-21": 1387,
-      "2026-08-22": 499
+      "2026-08-22": 909
     }
   },
   {
@@ -334,7 +334,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-22": 544,
+      "2026-08-22": 956,
       "2026-08-21": 1440,
       "2026-08-20": 1440,
       "2026-08-19": 1440,
