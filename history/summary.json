@@ -9,7 +9,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "74.35%",
+    "uptimeYear": "74.39%",
     "time": 772,
     "timeDay": 1773,
     "timeWeek": 1188,
@@ -119,14 +119,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/id.bookmyshow.com.ico",
     "slug": "bms-id",
     "status": "down",
-    "uptime": "95.70%",
+    "uptime": "95.69%",
     "uptimeDay": "17.99%",
-    "uptimeWeek": "3.61%",
+    "uptimeWeek": "3.38%",
     "uptimeMonth": "0.95%",
-    "uptimeYear": "79.00%",
+    "uptimeYear": "78.95%",
     "time": 382,
     "timeDay": 772,
-    "timeWeek": 631,
+    "timeWeek": 590,
     "timeMonth": 484,
     "timeYear": 436,
     "dailyMinutesDown": {
@@ -220,7 +220,7 @@
       "2026-08-20": 1440,
       "2026-08-23": 1413,
       "2026-08-22": 1440,
-      "2026-08-24": 579
+      "2026-08-24": 805
     }
   },
   {
@@ -228,17 +228,17 @@
     "url": "https://my.bookmyshow.com/",
     "icon": "https://icons.duckduckgo.com/ip3/my.bookmyshow.com.ico",
     "slug": "bms-my",
-    "status": "down",
-    "uptime": "96.49%",
-    "uptimeDay": "2.66%",
-    "uptimeWeek": "2.54%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "82.87%",
-    "time": 423,
-    "timeDay": 1101,
-    "timeWeek": 693,
-    "timeMonth": 541,
-    "timeYear": 474,
+    "status": "up",
+    "uptime": "96.48%",
+    "uptimeDay": "0.04%",
+    "uptimeWeek": "2.55%",
+    "uptimeMonth": "0.00%",
+    "uptimeYear": "82.82%",
+    "time": 424,
+    "timeDay": 1203,
+    "timeWeek": 725,
+    "timeMonth": 547,
+    "timeYear": 475,
     "dailyMinutesDown": {
       "2026-06-13": 1035,
       "2026-06-12": 19,
@@ -313,7 +313,7 @@
       "2026-08-21": 1387,
       "2026-08-22": 1380,
       "2026-08-23": 1373,
-      "2026-08-24": 811
+      "2026-08-24": 1037
     }
   },
   {
@@ -333,7 +333,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-08-24": 811,
+      "2026-08-24": 1038,
       "2026-08-23": 1440,
       "2026-08-22": 1440,
       "2026-08-21": 1440,
